@@ -9,7 +9,7 @@ StreamRecorder is a simple Go command-line tool that allows for the recording of
 Clone the repository to your local machine:
 
 ```bash
-go install github.com/verte-zerg/streamrecorder/cmd/streamrecorder
+go install github.com/verte-zerg/streamrecorder/cmd/streamrecorder@latest
 ```
 
 ### Usage
